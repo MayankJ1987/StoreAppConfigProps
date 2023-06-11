@@ -1,0 +1,2 @@
+# StoreAppConfigProps
+Config Server
